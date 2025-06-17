@@ -1,3 +1,5 @@
 # Run
 
 dotnet run
+
+dotnet run --launch-profile https
